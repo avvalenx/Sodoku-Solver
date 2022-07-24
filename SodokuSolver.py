@@ -85,7 +85,6 @@ def symmetric_difference(list1, list2):
             difference.append(value)
     return difference
 
-#FIXME check for squares too XOXO
 def possible_values():
     PVL = [
     [[],[],[],[],[],[],[],[],[]],
